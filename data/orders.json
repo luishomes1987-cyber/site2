@@ -1,0 +1,29 @@
+[
+  {
+    "customer": {
+      "name": "Rodrigo Felipe",
+      "email": "rlzfvm@gmail.com",
+      "phone": "(25) 1 5251-5515",
+      "instagram": "rodry",
+      "address": "Rua antero quental n5",
+      "city": "Faro",
+      "postalCode": "8100-251",
+      "notes": ""
+    },
+    "items": [
+      {
+        "id": "PROD-AIRPODS-PRO-001",
+        "name": "AirPods Pro 2nd Gen",
+        "brand": "Apple",
+        "price": 229,
+        "image": "/apple-airpods-pro-white.jpg",
+        "size": "Único",
+        "quantity": 1
+      }
+    ],
+    "total": 229,
+    "id": "ORD-1766454480882-GTFQXCQ",
+    "status": "pending",
+    "createdAt": "2025-12-23T01:48:00.882Z"
+  }
+]
