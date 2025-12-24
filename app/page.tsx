@@ -53,7 +53,7 @@ export default function Home() {
               <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-primary transition-all duration-300 group-hover:w-full" />
             </Link>
             <a
-              href="https://instagram.com/cloudzvape.shop"
+              href="https://instagram.com/cloudzstore.pt"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-all duration-300 hover:scale-110"
@@ -127,7 +127,7 @@ export default function Home() {
               asChild
             >
               <a
-                href="https://instagram.com/cloudzvape.shop"
+                href="https://instagram.com/cloudzstore.pt"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2"
@@ -193,7 +193,7 @@ export default function Home() {
                 A tua loja premium de streetwear, tecnologia e lifestyle com as últimas tendências.
               </p>
               <a
-                href="https://instagram.com/cloudzvape.shop"
+                href="https://instagram.com/cloudzstore.pt"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm font-semibold hover:text-primary inline-flex items-center gap-2 transition-all duration-300 group"
