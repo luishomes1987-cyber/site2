@@ -53,7 +53,7 @@ export default function Home() {
               <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-primary transition-all duration-300 group-hover:w-full" />
             </Link>
             <a
-              href="https://instagram.com"
+              href="https://instagram.com/cloudzvape.shop"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-all duration-300 hover:scale-110"
@@ -97,11 +97,11 @@ export default function Home() {
 
           <h1 className="text-6xl md:text-8xl font-black tracking-tighter mb-6 text-balance leading-[0.9]">
             <span className="bg-gradient-to-r from-foreground via-foreground/90 to-foreground/70 bg-clip-text text-transparent">
-              Estilo Clean
+             Loja Online
             </span>
             <br />
             <span className="bg-gradient-to-r from-primary via-primary/80 to-primary/60 bg-clip-text text-transparent">
-              Nas Nuvens
+              24/7
             </span>
           </h1>
 
@@ -127,7 +127,7 @@ export default function Home() {
               asChild
             >
               <a
-                href="https://instagram.com"
+                href="https://instagram.com/cloudzvape.shop"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2"
@@ -193,7 +193,7 @@ export default function Home() {
                 A tua loja premium de streetwear, tecnologia e lifestyle com as últimas tendências.
               </p>
               <a
-                href="https://instagram.com"
+                href="https://instagram.com/cloudzvape.shop"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm font-semibold hover:text-primary inline-flex items-center gap-2 transition-all duration-300 group"
