@@ -29,7 +29,7 @@ export default function CartPage() {
                 Loja
               </Link>
               <a
-                href="https://instagram.com"
+                href="https://instagram.com/cloudzstore.pt"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-all duration-300"
@@ -74,7 +74,7 @@ export default function CartPage() {
               Loja
             </Link>
             <a
-              href="https://instagram.com"
+              href="https://instagram.com/cloudzstore.pt"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-all duration-300"
