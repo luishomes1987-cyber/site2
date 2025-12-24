@@ -85,7 +85,7 @@ export function SuccessContent({ orderId }: SuccessContentProps) {
           asChild
           className="hover:scale-105 transition-all duration-300 bg-transparent"
         >
-          <a href="https://instagram.com/cloudzvape.shop" target="_blank" rel="noopener noreferrer">
+          <a href="https://instagram.com/cloudzstore.pt" target="_blank" rel="noopener noreferrer">
             <Instagram className="w-4 h-4 mr-2" />
             Abrir Instagram
           </a>
