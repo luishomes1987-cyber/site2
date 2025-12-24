@@ -29,7 +29,7 @@ import {
   TrendingUp,
   ShoppingBag,
 } from "lucide-react"
-import type { Order } from "@/lib/storage"
+import type { Order } from "@/lib/server-storage"
 
 const STAFF_PASSWORD = "cloudz2024"
 
